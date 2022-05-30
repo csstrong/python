@@ -1,0 +1,16 @@
+{
+  "value_range": {
+    "w-shuiwei-Avg": {
+      "min": 1,
+      "max": 10
+    },
+    "w-liusu-Avg": {
+      "min": 11,
+      "max": 15
+    },
+    "w-liuliang-Avg": {
+      "min": 15,
+      "max": 20
+    }
+  }
+}
